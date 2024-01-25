@@ -1,0 +1,38 @@
+.banner{
+    background-color: white;
+    border: 3px red;
+    border-radius: 15px;
+    width: 200px;
+    height: 150vh;
+}
+body{
+    background-color: mediumpurple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.banner h1{
+    text-decoration: underline;
+    font-family: Laksaman;
+    color: mediumpurple;
+    text-align: center;
+}
+.banner input{
+    width: 70%;
+    position: relative;
+    margin: 20px 30px;
+    height: 30px;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    border: 2px solid olivedrab;
+    background: transparent;
+    padding: 2px;
+}
+.button{
+    background-color: aquamarine;
+    color: antiquewhite;
+    text-align: center;
+    padding: 15px;
+
+}
